@@ -2,7 +2,7 @@
 This project was practice using Terraform to deploy a vpc on aws. This project was created using example code.
 #
 **Steps:**
-
+#
 1. Navigate to a terraform directory.
 2. Add a New file named main.tf and variables.tf.
 3. Copy the code from the git hub repo into the terraform file.
